@@ -1,0 +1,36 @@
+body {
+    background-image: url('images/deer2.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    margin: 0;
+    padding: 0;
+}
+
+.name {
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: darkgreen;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+
+    border: 2px solid green;
+    padding: 20px;
+    margin: 20px auto;
+    background-color: darkgrey;
+    border-radius: 10px;
+    max-width: fit-content;
+}
+
+.intro {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: 600;
+    color: blue;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
